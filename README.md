@@ -1,0 +1,2 @@
+# wipro_pipes
+Python program to automate the process of the process of transferring the pipes from the warehouse to the carrier truck. There are N pipes in the warehouse placed vertically along a wall. In the automated system, a drone picks the pipes by length and carries them to the carrier truck. In each turn, the drone moves from left to right to find the pipes whose lengths are greater than the pipe on their left. After finding the pipe, the drone takes the pipe to the carrier truck. The drone repeats this process  until it has no more pipes to pick
